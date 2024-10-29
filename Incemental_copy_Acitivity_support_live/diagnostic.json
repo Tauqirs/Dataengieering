@@ -1,0 +1,23 @@
+{
+    "now": "2024-10-29T15:02:37.795Z",
+    "perfNow": 3352411.7999999523,
+    "diagnosticCorrelation": "a636a009-e511-48fe-affc-ecb2eca9b0f5",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.101424.2",
+        "environmentType": 3,
+        "resourceName": "Tauqir-Datafactory",
+        "resourceRegion": "centralindia",
+        "resourceGroup": "Tauqir_TCS_Practice",
+        "subscriptionId": "55b0ca85-180a-4830-a1b7-9f13c102054c",
+        "sessionId": "oDoZCIa7+WE2s81kdRtM3r",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "51d30d33-2c3d-4194-afc4-66b6a88270e5"
+    },
+    "additionalInfo": {
+        "selectedResource": "Incemental_copy_Acitivity",
+        "selectedResourceType": "pipeline"
+    }
+}

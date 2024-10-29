@@ -1,0 +1,6 @@
+selected resource name:		Incemental_copy_Acitivity
+selected resource type:		pipeline
+factory name:			Tauqir-Datafactory
+factory location:		centralindia
+subscription id:		55b0ca85-180a-4830-a1b7-9f13c102054c
+time of download (UTC):		Tue, 29 Oct 2024 15:02:37 GMT
